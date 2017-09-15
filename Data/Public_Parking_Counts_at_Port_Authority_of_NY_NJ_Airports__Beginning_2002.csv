@@ -1,0 +1,709 @@
+Airport,Year,Month,Public Parking Counts at PA Airports 
+Kennedy International Airport,2002,1,349019
+Kennedy International Airport,2002,2,301327
+Kennedy International Airport,2002,3,367110
+Kennedy International Airport,2002,4,355947
+Kennedy International Airport,2002,5,370167
+Kennedy International Airport,2002,6,426258
+Kennedy International Airport,2002,7,502426
+Kennedy International Airport,2002,8,533359
+Kennedy International Airport,2002,9,403954
+Kennedy International Airport,2002,10,366481
+Kennedy International Airport,2002,11,346275
+Kennedy International Airport,2002,12,403146
+Kennedy International Airport,2003,1,418212
+Kennedy International Airport,2003,2,325456
+Kennedy International Airport,2003,3,373830
+Kennedy International Airport,2003,4,354575
+Kennedy International Airport,2003,5,381612
+Kennedy International Airport,2003,6,428817
+Kennedy International Airport,2003,7,516725
+Kennedy International Airport,2003,8,543811
+Kennedy International Airport,2003,9,423272
+Kennedy International Airport,2003,10,392119
+Kennedy International Airport,2003,11,376034
+Kennedy International Airport,2003,12,420684
+Kennedy International Airport,2004,1,408441
+Kennedy International Airport,2004,2,331856
+Kennedy International Airport,2004,3,378522
+Kennedy International Airport,2004,4,413591
+Kennedy International Airport,2004,5,418821
+Kennedy International Airport,2004,6,468077
+Kennedy International Airport,2004,7,557464
+Kennedy International Airport,2004,8,575492
+Kennedy International Airport,2004,9,439458
+Kennedy International Airport,2004,10,401957
+Kennedy International Airport,2004,11,382416
+Kennedy International Airport,2004,12,420263
+Kennedy International Airport,2005,1,435868
+Kennedy International Airport,2005,2,350764
+Kennedy International Airport,2005,3,426279
+Kennedy International Airport,2005,4,374927
+Kennedy International Airport,2005,5,381752
+Kennedy International Airport,2005,6,417249
+Kennedy International Airport,2005,7,502945
+Kennedy International Airport,2005,8,498177
+Kennedy International Airport,2005,9,381254
+Kennedy International Airport,2005,10,335146
+Kennedy International Airport,2005,11,318337
+Kennedy International Airport,2005,12,340793
+Kennedy International Airport,2006,1,341538
+Kennedy International Airport,2006,2,271913
+Kennedy International Airport,2006,3,326187
+Kennedy International Airport,2006,4,343421
+Kennedy International Airport,2006,5,336778
+Kennedy International Airport,2006,6,382700
+Kennedy International Airport,2006,7,450070
+Kennedy International Airport,2006,8,453017
+Kennedy International Airport,2006,9,355978
+Kennedy International Airport,2006,10,319331
+Kennedy International Airport,2006,11,309669
+Kennedy International Airport,2006,12,385036
+Kennedy International Airport,2007,1,384936
+Kennedy International Airport,2007,2,304760
+Kennedy International Airport,2007,3,375416
+Kennedy International Airport,2007,4,375256
+Kennedy International Airport,2007,5,386471
+Kennedy International Airport,2007,6,436100
+Kennedy International Airport,2007,7,492123
+Kennedy International Airport,2007,8,496012
+Kennedy International Airport,2007,9,395133
+Kennedy International Airport,2007,10,367860
+Kennedy International Airport,2007,11,356220
+Kennedy International Airport,2007,12,386444
+Kennedy International Airport,2008,1,375382
+Kennedy International Airport,2008,2,322635
+Kennedy International Airport,2008,3,370469
+Kennedy International Airport,2008,4,359060
+Kennedy International Airport,2008,5,377978
+Kennedy International Airport,2008,6,420422
+Kennedy International Airport,2008,7,471450
+Kennedy International Airport,2008,8,480045
+Kennedy International Airport,2008,9,365967
+Kennedy International Airport,2008,10,345239
+Kennedy International Airport,2008,11,327457
+Kennedy International Airport,2008,12,354895
+Kennedy International Airport,2009,1,341941
+Kennedy International Airport,2009,2,286336
+Kennedy International Airport,2009,3,334271
+Kennedy International Airport,2009,4,352347
+Kennedy International Airport,2009,5,361505
+Kennedy International Airport,2009,6,406380
+Kennedy International Airport,2009,7,460103
+Kennedy International Airport,2009,8,471519
+Kennedy International Airport,2009,9,366512
+Kennedy International Airport,2009,10,346661
+Kennedy International Airport,2009,11,318126
+Kennedy International Airport,2009,12,347352
+Kennedy International Airport,2010,1,339114
+Kennedy International Airport,2010,2,271392
+Kennedy International Airport,2010,3,337086
+Kennedy International Airport,2010,4,327943
+Kennedy International Airport,2010,5,358404
+Kennedy International Airport,2010,6,399066
+Kennedy International Airport,2010,7,454695
+Kennedy International Airport,2010,8,458248
+Kennedy International Airport,2010,9,367810
+Kennedy International Airport,2010,10,351967
+Kennedy International Airport,2010,11,325644
+Kennedy International Airport,2010,12,346203
+Kennedy International Airport,2011,1,333166
+Kennedy International Airport,2011,2,271014
+Kennedy International Airport,2011,3,331169
+Kennedy International Airport,2011,4,343751
+Kennedy International Airport,2011,5,364680
+Kennedy International Airport,2011,6,388817
+Kennedy International Airport,2011,7,441797
+Kennedy International Airport,2011,8,427667
+Kennedy International Airport,2011,9,372426
+Kennedy International Airport,2011,10,342392
+Kennedy International Airport,2011,11,316152
+Kennedy International Airport,2011,12,340231
+Kennedy International Airport,2012,1,336280
+Kennedy International Airport,2012,2,285249
+Kennedy International Airport,2012,3,337782
+Kennedy International Airport,2012,4,340944
+Kennedy International Airport,2012,5,350505
+Kennedy International Airport,2012,6,392391
+Kennedy International Airport,2012,7,435617
+Kennedy International Airport,2012,8,438783
+Kennedy International Airport,2012,9,365767
+Kennedy International Airport,2012,10,318893
+Kennedy International Airport,2012,11,313693
+Kennedy International Airport,2012,12,346382
+Kennedy International Airport,2013,1,335008
+Kennedy International Airport,2013,2,271595
+Kennedy International Airport,2013,3,340371
+Kennedy International Airport,2013,4,328537
+Kennedy International Airport,2013,5,354395
+Kennedy International Airport,2013,6,397578
+Kennedy International Airport,2013,7,427620
+Kennedy International Airport,2013,8,439208
+Kennedy International Airport,2013,9,356550
+Kennedy International Airport,2013,10,328983
+Kennedy International Airport,2013,11,300923
+Kennedy International Airport,2013,12,345150
+Kennedy International Airport,2014,1,329828
+Kennedy International Airport,2014,2,257780
+Kennedy International Airport,2014,3,318241
+Kennedy International Airport,2014,4,327210
+Kennedy International Airport,2014,5,352795
+Kennedy International Airport,2014,6,377682
+Kennedy International Airport,2014,7,426400
+Kennedy International Airport,2014,8,435653
+Kennedy International Airport,2014,9,355946
+Kennedy International Airport,2014,10,326101
+Kennedy International Airport,2014,11,296647
+Kennedy International Airport,2014,12,327984
+Kennedy International Airport,2015,1,315111
+Kennedy International Airport,2015,2,257943
+Kennedy International Airport,2015,3,313585
+Kennedy International Airport,2015,4,325505
+Kennedy International Airport,2015,5,344876
+Kennedy International Airport,2015,6,375231
+Kennedy International Airport,2015,7,418615
+Kennedy International Airport,2015,8,433528
+Kennedy International Airport,2015,9,355968
+Kennedy International Airport,2015,10,332576
+Kennedy International Airport,2015,11,301477
+Kennedy International Airport,2015,12,338196
+Kennedy International Airport,2016,1,321060
+Kennedy International Airport,2016,2,269176
+Kennedy International Airport,2016,3,313331
+Kennedy International Airport,2016,4,326042
+Kennedy International Airport,2016,5,352086
+Kennedy International Airport,2016,6,375360
+Kennedy International Airport,2016,7,425571
+Kennedy International Airport,2016,8,423183
+Kennedy International Airport,2016,9,346183
+Newark Liberty International Airport,2002,1,391773
+Newark Liberty International Airport,2002,2,372018
+Newark Liberty International Airport,2002,3,443142
+Newark Liberty International Airport,2002,4,430709
+Newark Liberty International Airport,2002,5,456380
+Newark Liberty International Airport,2002,6,467954
+Newark Liberty International Airport,2002,7,455912
+Newark Liberty International Airport,2002,8,442644
+Newark Liberty International Airport,2002,9,338234
+Newark Liberty International Airport,2002,10,368835
+Newark Liberty International Airport,2002,11,360758
+Newark Liberty International Airport,2002,12,378699
+Newark Liberty International Airport,2003,1,346762
+Newark Liberty International Airport,2003,2,298528
+Newark Liberty International Airport,2003,3,354643
+Newark Liberty International Airport,2003,4,335801
+Newark Liberty International Airport,2003,5,370461
+Newark Liberty International Airport,2003,6,392649
+Newark Liberty International Airport,2003,7,430360
+Newark Liberty International Airport,2003,8,445253
+Newark Liberty International Airport,2003,9,342331
+Newark Liberty International Airport,2003,10,366152
+Newark Liberty International Airport,2003,11,352091
+Newark Liberty International Airport,2003,12,363096
+Newark Liberty International Airport,2004,1,341978
+Newark Liberty International Airport,2004,2,325652
+Newark Liberty International Airport,2004,3,378973
+Newark Liberty International Airport,2004,4,368431
+Newark Liberty International Airport,2004,5,370007
+Newark Liberty International Airport,2004,6,389747
+Newark Liberty International Airport,2004,7,421109
+Newark Liberty International Airport,2004,8,416470
+Newark Liberty International Airport,2004,9,335861
+Newark Liberty International Airport,2004,10,356070
+Newark Liberty International Airport,2004,11,343929
+Newark Liberty International Airport,2004,12,349119
+Newark Liberty International Airport,2005,1,326004
+Newark Liberty International Airport,2005,2,298272
+Newark Liberty International Airport,2005,3,366031
+Newark Liberty International Airport,2005,4,354059
+Newark Liberty International Airport,2005,5,366254
+Newark Liberty International Airport,2005,6,374228
+Newark Liberty International Airport,2005,7,402777
+Newark Liberty International Airport,2005,8,405472
+Newark Liberty International Airport,2005,9,343355
+Newark Liberty International Airport,2005,10,354391
+Newark Liberty International Airport,2005,11,355942
+Newark Liberty International Airport,2005,12,360201
+Newark Liberty International Airport,2006,1,348429
+Newark Liberty International Airport,2006,2,314359
+Newark Liberty International Airport,2006,3,390256
+Newark Liberty International Airport,2006,4,381197
+Newark Liberty International Airport,2006,5,384145
+Newark Liberty International Airport,2006,6,402885
+Newark Liberty International Airport,2006,7,422922
+Newark Liberty International Airport,2006,8,423154
+Newark Liberty International Airport,2006,9,346614
+Newark Liberty International Airport,2006,10,358394
+Newark Liberty International Airport,2006,11,359293
+Newark Liberty International Airport,2006,12,348321
+Newark Liberty International Airport,2007,1,335870
+Newark Liberty International Airport,2007,2,303751
+Newark Liberty International Airport,2007,3,373790
+Newark Liberty International Airport,2007,4,358768
+Newark Liberty International Airport,2007,5,367149
+Newark Liberty International Airport,2007,6,382831
+Newark Liberty International Airport,2007,7,393423
+Newark Liberty International Airport,2007,8,403160
+Newark Liberty International Airport,2007,9,323507
+Newark Liberty International Airport,2007,10,343209
+Newark Liberty International Airport,2007,11,342910
+Newark Liberty International Airport,2007,12,317620
+Newark Liberty International Airport,2008,1,313488
+Newark Liberty International Airport,2008,2,293995
+Newark Liberty International Airport,2008,3,338801
+Newark Liberty International Airport,2008,4,325171
+Newark Liberty International Airport,2008,5,334113
+Newark Liberty International Airport,2008,6,344119
+Newark Liberty International Airport,2008,7,354536
+Newark Liberty International Airport,2008,8,351456
+Newark Liberty International Airport,2008,9,274052
+Newark Liberty International Airport,2008,10,293076
+Newark Liberty International Airport,2008,11,266798
+Newark Liberty International Airport,2008,12,272841
+Newark Liberty International Airport,2009,1,250990
+Newark Liberty International Airport,2009,2,228228
+Newark Liberty International Airport,2009,3,271751
+Newark Liberty International Airport,2009,4,276144
+Newark Liberty International Airport,2009,5,272989
+Newark Liberty International Airport,2009,6,295163
+Newark Liberty International Airport,2009,7,320866
+Newark Liberty International Airport,2009,8,320592
+Newark Liberty International Airport,2009,9,251310
+Newark Liberty International Airport,2009,10,275101
+Newark Liberty International Airport,2009,11,253248
+Newark Liberty International Airport,2009,12,256380
+Newark Liberty International Airport,2010,1,249393
+Newark Liberty International Airport,2010,2,206101
+Newark Liberty International Airport,2010,3,269298
+Newark Liberty International Airport,2010,4,257728
+Newark Liberty International Airport,2010,5,271845
+Newark Liberty International Airport,2010,6,280410
+Newark Liberty International Airport,2010,7,296243
+Newark Liberty International Airport,2010,8,290388
+Newark Liberty International Airport,2010,9,243934
+Newark Liberty International Airport,2010,10,260645
+Newark Liberty International Airport,2010,11,240823
+Newark Liberty International Airport,2010,12,238393
+Newark Liberty International Airport,2011,1,224144
+Newark Liberty International Airport,2011,2,201360
+Newark Liberty International Airport,2011,3,254706
+Newark Liberty International Airport,2011,4,256885
+Newark Liberty International Airport,2011,5,276502
+Newark Liberty International Airport,2011,6,284479
+Newark Liberty International Airport,2011,7,296013
+Newark Liberty International Airport,2011,8,281536
+Newark Liberty International Airport,2011,9,253142
+Newark Liberty International Airport,2011,10,254299
+Newark Liberty International Airport,2011,11,238583
+Newark Liberty International Airport,2011,12,241369
+Newark Liberty International Airport,2012,1,228680
+Newark Liberty International Airport,2012,2,213532
+Newark Liberty International Airport,2012,3,260864
+Newark Liberty International Airport,2012,4,249217
+Newark Liberty International Airport,2012,5,259334
+Newark Liberty International Airport,2012,6,267365
+Newark Liberty International Airport,2012,7,267841
+Newark Liberty International Airport,2012,8,273172
+Newark Liberty International Airport,2012,9,232627
+Newark Liberty International Airport,2012,10,229003
+Newark Liberty International Airport,2012,11,218468
+Newark Liberty International Airport,2012,12,224010
+Newark Liberty International Airport,2013,1,218104
+Newark Liberty International Airport,2013,2,194901
+Newark Liberty International Airport,2013,3,244721
+Newark Liberty International Airport,2013,4,242584
+Newark Liberty International Airport,2013,5,257042
+Newark Liberty International Airport,2013,6,265638
+Newark Liberty International Airport,2013,7,264340
+Newark Liberty International Airport,2013,8,267267
+Newark Liberty International Airport,2013,9,228822
+Newark Liberty International Airport,2013,10,242530
+Newark Liberty International Airport,2013,11,221097
+Newark Liberty International Airport,2013,12,231425
+Newark Liberty International Airport,2014,1,216279
+Newark Liberty International Airport,2014,2,184495
+Newark Liberty International Airport,2014,3,239754
+Newark Liberty International Airport,2014,4,231446
+Newark Liberty International Airport,2014,5,250923
+Newark Liberty International Airport,2014,6,262438
+Newark Liberty International Airport,2014,7,266218
+Newark Liberty International Airport,2014,8,260712
+Newark Liberty International Airport,2014,9,229765
+Newark Liberty International Airport,2014,10,234318
+Newark Liberty International Airport,2014,11,232574
+Newark Liberty International Airport,2014,12,231952
+Newark Liberty International Airport,2015,1,211740
+Newark Liberty International Airport,2015,2,187378
+Newark Liberty International Airport,2015,3,245763
+Newark Liberty International Airport,2015,4,237152
+Newark Liberty International Airport,2015,5,246944
+Newark Liberty International Airport,2015,6,255695
+Newark Liberty International Airport,2015,7,261348
+Newark Liberty International Airport,2015,8,260624
+Newark Liberty International Airport,2015,9,231407
+Newark Liberty International Airport,2015,10,252529
+Newark Liberty International Airport,2015,11,240215
+Newark Liberty International Airport,2015,12,241540
+Newark Liberty International Airport,2016,1,213225
+Newark Liberty International Airport,2016,2,200102
+Newark Liberty International Airport,2016,3,234749
+Newark Liberty International Airport,2016,4,234749
+Newark Liberty International Airport,2016,5,247409
+Newark Liberty International Airport,2016,6,254858
+Newark Liberty International Airport,2016,7,260212
+Newark Liberty International Airport,2016,8,260335
+Newark Liberty International Airport,2016,9,234412
+LaGuardia Airport,2002,1,184381
+LaGuardia Airport,2002,2,178704
+LaGuardia Airport,2002,3,220008
+LaGuardia Airport,2002,4,214541
+LaGuardia Airport,2002,5,221884
+LaGuardia Airport,2002,6,223992
+LaGuardia Airport,2002,7,236632
+LaGuardia Airport,2002,8,248965
+LaGuardia Airport,2002,9,185301
+LaGuardia Airport,2002,10,205595
+LaGuardia Airport,2002,11,206050
+LaGuardia Airport,2002,12,216018
+LaGuardia Airport,2003,1,186709
+LaGuardia Airport,2003,2,160933
+LaGuardia Airport,2003,3,181656
+LaGuardia Airport,2003,4,185504
+LaGuardia Airport,2003,5,196814
+LaGuardia Airport,2003,6,202957
+LaGuardia Airport,2003,7,221800
+LaGuardia Airport,2003,8,232250
+LaGuardia Airport,2003,9,171749
+LaGuardia Airport,2003,10,195034
+LaGuardia Airport,2003,11,187932
+LaGuardia Airport,2003,12,191582
+LaGuardia Airport,2004,1,170076
+LaGuardia Airport,2004,2,170000
+LaGuardia Airport,2004,3,191826
+LaGuardia Airport,2004,4,195421
+LaGuardia Airport,2004,5,193284
+LaGuardia Airport,2004,6,201867
+LaGuardia Airport,2004,7,212560
+LaGuardia Airport,2004,8,216342
+LaGuardia Airport,2004,9,174222
+LaGuardia Airport,2004,10,195313
+LaGuardia Airport,2004,11,190887
+LaGuardia Airport,2004,12,193299
+LaGuardia Airport,2005,1,177031
+LaGuardia Airport,2005,2,167407
+LaGuardia Airport,2005,3,201780
+LaGuardia Airport,2005,4,189202
+LaGuardia Airport,2005,5,201247
+LaGuardia Airport,2005,6,204715
+LaGuardia Airport,2005,7,208696
+LaGuardia Airport,2005,8,206428
+LaGuardia Airport,2005,9,170213
+LaGuardia Airport,2005,10,170994
+LaGuardia Airport,2005,11,175389
+LaGuardia Airport,2005,12,177558
+LaGuardia Airport,2006,1,166889
+LaGuardia Airport,2006,2,155549
+LaGuardia Airport,2006,3,187841
+LaGuardia Airport,2006,4,182373
+LaGuardia Airport,2006,5,176267
+LaGuardia Airport,2006,6,188250
+LaGuardia Airport,2006,7,192270
+LaGuardia Airport,2006,8,188409
+LaGuardia Airport,2006,9,154488
+LaGuardia Airport,2006,10,168505
+LaGuardia Airport,2006,11,166830
+LaGuardia Airport,2006,12,159395
+LaGuardia Airport,2007,1,148195
+LaGuardia Airport,2007,2,134815
+LaGuardia Airport,2007,3,159866
+LaGuardia Airport,2007,4,160659
+LaGuardia Airport,2007,5,165867
+LaGuardia Airport,2007,6,168554
+LaGuardia Airport,2007,7,175463
+LaGuardia Airport,2007,8,176684
+LaGuardia Airport,2007,9,139408
+LaGuardia Airport,2007,10,156253
+LaGuardia Airport,2007,11,151805
+LaGuardia Airport,2007,12,136791
+LaGuardia Airport,2008,1,131862
+LaGuardia Airport,2008,2,128409
+LaGuardia Airport,2008,3,147948
+LaGuardia Airport,2008,4,145188
+LaGuardia Airport,2008,5,143221
+LaGuardia Airport,2008,6,146118
+LaGuardia Airport,2008,7,156218
+LaGuardia Airport,2008,8,156900
+LaGuardia Airport,2008,9,120422
+LaGuardia Airport,2008,10,130115
+LaGuardia Airport,2008,11,114568
+LaGuardia Airport,2008,12,124501
+LaGuardia Airport,2009,1,104265
+LaGuardia Airport,2009,2,102145
+LaGuardia Airport,2009,3,113840
+LaGuardia Airport,2009,4,120477
+LaGuardia Airport,2009,5,118642
+LaGuardia Airport,2009,6,133840
+LaGuardia Airport,2009,7,148461
+LaGuardia Airport,2009,8,144611
+LaGuardia Airport,2009,9,117021
+LaGuardia Airport,2009,10,125938
+LaGuardia Airport,2009,11,120539
+LaGuardia Airport,2009,12,120278
+LaGuardia Airport,2010,1,109281
+LaGuardia Airport,2010,2,95746
+LaGuardia Airport,2010,3,128485
+LaGuardia Airport,2010,4,129291
+LaGuardia Airport,2010,5,130791
+LaGuardia Airport,2010,6,138255
+LaGuardia Airport,2010,7,146571
+LaGuardia Airport,2010,8,146484
+LaGuardia Airport,2010,9,124625
+LaGuardia Airport,2010,10,134677
+LaGuardia Airport,2010,11,126557
+LaGuardia Airport,2010,12,120112
+LaGuardia Airport,2011,1,103601
+LaGuardia Airport,2011,2,99047
+LaGuardia Airport,2011,3,127068
+LaGuardia Airport,2011,4,125446
+LaGuardia Airport,2011,5,133424
+LaGuardia Airport,2011,6,138035
+LaGuardia Airport,2011,7,140040
+LaGuardia Airport,2011,8,136312
+LaGuardia Airport,2011,9,119120
+LaGuardia Airport,2011,10,123220
+LaGuardia Airport,2011,11,121090
+LaGuardia Airport,2011,12,115406
+LaGuardia Airport,2012,1,105691
+LaGuardia Airport,2012,2,105079
+LaGuardia Airport,2012,3,123759
+LaGuardia Airport,2012,4,126679
+LaGuardia Airport,2012,5,131873
+LaGuardia Airport,2012,6,134524
+LaGuardia Airport,2012,7,138600
+LaGuardia Airport,2012,8,144247
+LaGuardia Airport,2012,9,121618
+LaGuardia Airport,2012,10,121532
+LaGuardia Airport,2012,11,117556
+LaGuardia Airport,2012,12,122469
+LaGuardia Airport,2013,1,112645
+LaGuardia Airport,2013,2,104215
+LaGuardia Airport,2013,3,126450
+LaGuardia Airport,2013,4,123859
+LaGuardia Airport,2013,5,127945
+LaGuardia Airport,2013,6,130027
+LaGuardia Airport,2013,7,132026
+LaGuardia Airport,2013,8,132365
+LaGuardia Airport,2013,9,112348
+LaGuardia Airport,2013,10,124018
+LaGuardia Airport,2013,11,111541
+LaGuardia Airport,2013,12,114432
+LaGuardia Airport,2014,1,101669
+LaGuardia Airport,2014,2,84435
+LaGuardia Airport,2014,3,106491
+LaGuardia Airport,2014,4,107804
+LaGuardia Airport,2014,5,115810
+LaGuardia Airport,2014,6,115418
+LaGuardia Airport,2014,7,116491
+LaGuardia Airport,2014,8,111105
+LaGuardia Airport,2014,9,94592
+LaGuardia Airport,2014,10,100812
+LaGuardia Airport,2014,11,96394
+LaGuardia Airport,2014,12,95164
+LaGuardia Airport,2015,1,81784
+LaGuardia Airport,2015,2,78844
+LaGuardia Airport,2015,3,95749
+LaGuardia Airport,2015,4,97617
+LaGuardia Airport,2015,5,96448
+LaGuardia Airport,2015,6,103214
+LaGuardia Airport,2015,7,108105
+LaGuardia Airport,2015,8,109035
+LaGuardia Airport,2015,9,95713
+LaGuardia Airport,2015,10,105713
+LaGuardia Airport,2015,11,98958
+LaGuardia Airport,2015,12,99579
+LaGuardia Airport,2016,1,86903
+LaGuardia Airport,2016,2,86374
+LaGuardia Airport,2016,3,104536
+LaGuardia Airport,2016,4,103143
+LaGuardia Airport,2016,5,106766
+LaGuardia Airport,2016,6,109532
+LaGuardia Airport,2016,7,68013
+LaGuardia Airport,2016,8,54454
+LaGuardia Airport,2016,9,43005
+Stewart International Airport,2002,1,0
+Stewart International Airport,2002,2,0
+Stewart International Airport,2002,3,0
+Stewart International Airport,2002,4,0
+Stewart International Airport,2002,5,0
+Stewart International Airport,2002,6,0
+Stewart International Airport,2002,7,0
+Stewart International Airport,2002,8,0
+Stewart International Airport,2002,9,0
+Stewart International Airport,2002,10,0
+Stewart International Airport,2002,11,0
+Stewart International Airport,2002,12,0
+Stewart International Airport,2003,1,0
+Stewart International Airport,2003,2,0
+Stewart International Airport,2003,3,0
+Stewart International Airport,2003,4,0
+Stewart International Airport,2003,5,0
+Stewart International Airport,2003,6,0
+Stewart International Airport,2003,7,0
+Stewart International Airport,2003,8,0
+Stewart International Airport,2003,9,0
+Stewart International Airport,2003,10,0
+Stewart International Airport,2003,11,0
+Stewart International Airport,2003,12,0
+Stewart International Airport,2004,1,0
+Stewart International Airport,2004,2,0
+Stewart International Airport,2004,3,0
+Stewart International Airport,2004,4,0
+Stewart International Airport,2004,5,0
+Stewart International Airport,2004,6,0
+Stewart International Airport,2004,7,0
+Stewart International Airport,2004,8,0
+Stewart International Airport,2004,9,0
+Stewart International Airport,2004,10,0
+Stewart International Airport,2004,11,0
+Stewart International Airport,2004,12,0
+Stewart International Airport,2005,1,0
+Stewart International Airport,2005,2,0
+Stewart International Airport,2005,3,0
+Stewart International Airport,2005,4,0
+Stewart International Airport,2005,5,0
+Stewart International Airport,2005,6,0
+Stewart International Airport,2005,7,0
+Stewart International Airport,2005,8,0
+Stewart International Airport,2005,9,0
+Stewart International Airport,2005,10,0
+Stewart International Airport,2005,11,0
+Stewart International Airport,2005,12,0
+Stewart International Airport,2006,1,0
+Stewart International Airport,2006,2,0
+Stewart International Airport,2006,3,0
+Stewart International Airport,2006,4,0
+Stewart International Airport,2006,5,0
+Stewart International Airport,2006,6,0
+Stewart International Airport,2006,7,0
+Stewart International Airport,2006,8,0
+Stewart International Airport,2006,9,0
+Stewart International Airport,2006,10,0
+Stewart International Airport,2006,11,0
+Stewart International Airport,2006,12,0
+Stewart International Airport,2007,1,0
+Stewart International Airport,2007,2,0
+Stewart International Airport,2007,3,0
+Stewart International Airport,2007,4,0
+Stewart International Airport,2007,5,0
+Stewart International Airport,2007,6,0
+Stewart International Airport,2007,7,0
+Stewart International Airport,2007,8,0
+Stewart International Airport,2007,9,0
+Stewart International Airport,2007,10,0
+Stewart International Airport,2007,11,0
+Stewart International Airport,2007,12,0
+Stewart International Airport,2008,1,34901
+Stewart International Airport,2008,2,46868
+Stewart International Airport,2008,3,52174
+Stewart International Airport,2008,4,46903
+Stewart International Airport,2008,5,31862
+Stewart International Airport,2008,6,25322
+Stewart International Airport,2008,7,28942
+Stewart International Airport,2008,8,28769
+Stewart International Airport,2008,9,13536
+Stewart International Airport,2008,10,14637
+Stewart International Airport,2008,11,14524
+Stewart International Airport,2008,12,14637
+Stewart International Airport,2009,1,13738
+Stewart International Airport,2009,2,14683
+Stewart International Airport,2009,3,14867
+Stewart International Airport,2009,4,14268
+Stewart International Airport,2009,5,12708
+Stewart International Airport,2009,6,10534
+Stewart International Airport,2009,7,11532
+Stewart International Airport,2009,8,12071
+Stewart International Airport,2009,9,11097
+Stewart International Airport,2009,10,13108
+Stewart International Airport,2009,11,14405
+Stewart International Airport,2009,12,14352
+Stewart International Airport,2010,1,7315
+Stewart International Airport,2010,2,6657
+Stewart International Airport,2010,3,8258
+Stewart International Airport,2010,4,7856
+Stewart International Airport,2010,5,8573
+Stewart International Airport,2010,6,7991
+Stewart International Airport,2010,7,8472
+Stewart International Airport,2010,8,8358
+Stewart International Airport,2010,9,7339
+Stewart International Airport,2010,10,7593
+Stewart International Airport,2010,11,7580
+Stewart International Airport,2010,12,8501
+Stewart International Airport,2011,1,7054
+Stewart International Airport,2011,2,6357
+Stewart International Airport,2011,3,7665
+Stewart International Airport,2011,4,7609
+Stewart International Airport,2011,5,8339
+Stewart International Airport,2011,6,8488
+Stewart International Airport,2011,7,9519
+Stewart International Airport,2011,8,9390
+Stewart International Airport,2011,9,7340
+Stewart International Airport,2011,10,7951
+Stewart International Airport,2011,11,7372
+Stewart International Airport,2011,12,7490
+Stewart International Airport,2012,1,6772
+Stewart International Airport,2012,2,6766
+Stewart International Airport,2012,3,7935
+Stewart International Airport,2012,4,7164
+Stewart International Airport,2012,5,6902
+Stewart International Airport,2012,6,7182
+Stewart International Airport,2012,7,8045
+Stewart International Airport,2012,8,8028
+Stewart International Airport,2012,9,5294
+Stewart International Airport,2012,10,5542
+Stewart International Airport,2012,11,5387
+Stewart International Airport,2012,12,5767
+Stewart International Airport,2013,1,5377
+Stewart International Airport,2013,2,5134
+Stewart International Airport,2013,3,6358
+Stewart International Airport,2013,4,6078
+Stewart International Airport,2013,5,5695
+Stewart International Airport,2013,6,5904
+Stewart International Airport,2013,7,7032
+Stewart International Airport,2013,8,6897
+Stewart International Airport,2013,9,5861
+Stewart International Airport,2013,10,5905
+Stewart International Airport,2013,11,5697
+Stewart International Airport,2013,12,6094
+Stewart International Airport,2014,1,5644
+Stewart International Airport,2014,2,4982
+Stewart International Airport,2014,3,5678
+Stewart International Airport,2014,4,6054
+Stewart International Airport,2014,5,6287
+Stewart International Airport,2014,6,5863
+Stewart International Airport,2014,7,6404
+Stewart International Airport,2014,8,6247
+Stewart International Airport,2014,9,5873
+Stewart International Airport,2014,10,5706
+Stewart International Airport,2014,11,5298
+Stewart International Airport,2014,12,5407
+Stewart International Airport,2015,1,4825
+Stewart International Airport,2015,2,4508
+Stewart International Airport,2015,3,4974
+Stewart International Airport,2015,4,5807
+Stewart International Airport,2015,5,5778
+Stewart International Airport,2015,6,5582
+Stewart International Airport,2015,7,6245
+Stewart International Airport,2015,8,6248
+Stewart International Airport,2015,9,5063
+Stewart International Airport,2015,10,5298
+Stewart International Airport,2015,11,4718
+Stewart International Airport,2015,12,4749
+Stewart International Airport,2016,1,4621
+Stewart International Airport,2016,2,4265
+Stewart International Airport,2016,3,5138
+Stewart International Airport,2016,4,5309
+Stewart International Airport,2016,5,4764
+Stewart International Airport,2016,6,4994
+Stewart International Airport,2016,7,5730
+Stewart International Airport,2016,8,5559
+Stewart International Airport,2016,9,5680
