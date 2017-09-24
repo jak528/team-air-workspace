@@ -1,0 +1,54 @@
+#Progress Log
+
+Week 1
+Progress for this week (8/28-9/3):
+Worked towards setting a date for our first meeting
+Performed initial research into airport operations and worked to understand all individual entities that join together to operate an airport 
+Created a system diagram to represent the breadth of airport operations
+Identified high-priority bottlenecks common to all airports as well as those specific to NYC area airports
+Discussed possible areas for operational improvement using data
+Brainstormed the first set of possible solutions
+
+Plans for next week (9/4-9/10):
+Take a deeper dive into the available data regarding airport operations
+Prepare for our initial meeting
+Research and understand how different stakeholder groups benefits from operational improvement at NYC airports
+Strategize how to create the most value for a given stakeholder group and begin to plan our approach accordingly
+Sketch early concepts and generate a corresponding narrative
+
+Potential Risks:
+Product scope still undefined; we aim to finalize this after our initial meeting
+We do not fully know the boundaries we should adhere to in our solution (i.e. improving airline and airport operations vs. those of air traffic control)
+
+
+Week 2
+Progress for this week (9/4-9/10):
+Ideated user stories and use cases
+Continued research into bottlenecks at NYC airports and refined our system diagrams to hone in on the areas we believe may hold the biggest potential improvement
+Brainstormed 80 possible solutions, narrowed this down to 4
+Sketched early concepts for these 4 solutions
+
+Plans for next week (9/11-9/18):
+Meet with you and your team
+Get all CSP agreements signed 
+Make any course corrections that result after our meeting in terms of possible solutions
+Dive deeper into the challenge
+First Sprint!
+
+Potential Risks:
+Product scope still undefined; we aim to finalize this after our initial meeting
+
+
+Week 3
+Progress for this week (9/11-9/17):
+Found sources of available public data, such as the TSA's wait time API and DHS' statistics on customs operations
+Performed an analysis on the data, which led to key insights and opportunities for potential improvement.
+Ultimately ruled out security lanes and TSA staffing as viable targets, given research into existing attempts at optimizing security wait times as well as the TSA's staff optimization software model.
+Decided to focus on transportation challenges facing airports, given that this constitutes a major problem area for airports in both the short and long term.
+Completed our first sprint and presented our findings to classmates and advisors.
+
+Plans for next week (9/18-9/24):
+Review and integrate feedback from last week's sprint.
+Continue to discover additional sources of data as well as analyzing the data at our disposal.
+Refine our approach towards optimizing transportation as a method of improving operations vis-a-vis data science.
+Further flesh out a productized method of effecting an operational enhancement at NYC airports.
