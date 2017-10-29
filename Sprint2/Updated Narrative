@@ -1,0 +1,20 @@
+Updated Feature Loop + Narrative
+  
+
+Narrative
+Travelers are currently not able to search for flights according to the travel time to or from the airport. 
+According to our research, a large percentage of business travelers would book flights according to the travel 
+time to and from the airport. Through a NYC airport Travel Time Index API, online booking engine can access 
+integrate an easy-to-understand travel time score that can allow travelers to gain more clarity into ground 
+travel times for each flight in their consideration set. By doing so, the goal is to ease traffic congestion 
+to/from NYC airports at peak periods, by making the public aware of which flights correspond to peak travel times.
+
+
+
+
+Features
+* Congestion predictions using a variety of data sets
+* Calculated travel time index to/from NYC airports
+* This index is available to travel booking engines in the form of an API and/or front-end widget
+* On clicking the icon in any online booking engine, the user can get more detailed information on travel times 
+and travel methods by inputting his or her address
